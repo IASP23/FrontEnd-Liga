@@ -1,8 +1,13 @@
-# React + Vite
+# React + Vite / Gestionador de Ligas 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
 
-Currently, two official plugins are available:
+Este proyecto utiliza Vite como bundler para el desarrollo de aplicaciones web modernas con React como biblioteca de interfaz de usuario. Además, hace uso de Flowbite, una biblioteca de componentes de interfaz de usuario para Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Comandos
+
+npm run dev 
+
+### Instalación
+
+Antes de comenzar, asegúrate de tener Node.js instalado en tu sistema. Luego, ejecuta el siguiente comando para instalar las dependencias del proyecto:
